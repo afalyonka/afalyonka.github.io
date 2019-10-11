@@ -50,7 +50,7 @@ defaults:
 
 minimal_mistakes_skin: "dirt"
 locale: ru-RU
-timezone: "Europe/Moscow"
+# timezone: "Europe/Moscow"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.17.0"
