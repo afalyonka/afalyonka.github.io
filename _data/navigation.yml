@@ -1,8 +1,0 @@
-
-main: 
-  - title: Рецепты
-    url: /posts/
-  - title: "About"
-    url: /about/
-  - title: "About Custom"
-    url: /pages/about/
