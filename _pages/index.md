@@ -1,7 +1,7 @@
 ---
-title: "All posts"
+title: "Все рецепты"
 layout: posts
 permalink: /posts/
 ---
 
-# Posts
+<!-- # Posts -->

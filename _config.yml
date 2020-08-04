@@ -18,19 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Рецепты Аленки
-subtitle: "Awesome receipts"
-email: chernyshev.e.o@gmail.com
-name: "Аленка Пеленка"
+# title: Рецепты Аленки
+subtitle: "Образ жизни"
+email: chernysheva.e.o@gmail.com
+name: "Afalyonka"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Рецепты, заметки и т.д.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://afalyonka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  afalyonka
-masthead_title: "Afalyonka"
+masthead_title: "Заметки"
 
+search: true # true, false (default)
+search_full_content: true # true, false (default)
+
+tag_archive:
+  type: liquid
+  path: /tags/
+  
 defaults:
   # _posts
   - scope:
