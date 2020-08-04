@@ -11,6 +11,7 @@ tags:
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/cheesecake.jpg
+  teaser: /assets/images/cheesecake.jpg
 ---
 
 ## Сырники в духовке без яиц
